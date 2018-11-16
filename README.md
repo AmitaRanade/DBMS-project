@@ -1,2 +1,2 @@
 # hello-github
-First Attempt
+DBMS project using Java and MySQL for jewellery shopping system.
